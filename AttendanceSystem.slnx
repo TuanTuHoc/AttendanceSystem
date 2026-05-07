@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="AttendanceClient/AttendanceClient.csproj" Id="3ecd0e7e-0135-4dd3-81d3-76e66f0fd73f" />
   <Project Path="AttendanceServer/AttendanceServer.csproj" Id="a056915b-2235-4434-b772-1f0ec539b3c9" />
+  <Project Path="AttendanceShared/AttendanceShared.csproj" Id="1264d794-8513-4bca-85ab-a3b4dc45d14b" />
 </Solution>
